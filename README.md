@@ -3,10 +3,6 @@
 ## Setup and Requirements
 - MATLAB
 - Tensor Toolbox (v2.6 or v3.6)
-- External methods (included in repository):
-  - TensorReg-master
-  - tensor_toolbox-2.6
-  - AOAS21-QuantileTR
 
 ## Quick Start
 
